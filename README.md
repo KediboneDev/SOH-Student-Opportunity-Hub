@@ -69,3 +69,10 @@ Examples include:
 This project was completed as part of my BSc Computer Science and Mathematics studies at **North-West University**.
 
 It provided practical experience in Java programming, object-oriented software development, teamwork, version control, system integration, and application security.
+
+## How to Run
+
+Open the project in BlueJ and run the `LoginScreen` class to launch the application.
+
+From the login screen, users can log in or create an account and access the appropriate features based on their user role.
+
