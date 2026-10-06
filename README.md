@@ -72,7 +72,8 @@ It provided practical experience in Java programming, object-oriented software d
 
 ## How to Run
 
-Open the project in BlueJ and run the `LoginScreen` class to launch the application.
+Open the project in BlueJ and run the `LoginScreen` JavaFX application to launch the system.
 
-From the login screen, users can log in or create an account and access the appropriate features based on their user role.
+The application opens at the login screen, where users can log in or create an account and access features according to their user role.
+
 
